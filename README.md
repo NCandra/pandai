@@ -19,6 +19,6 @@ Testing
 
 User: 
 
-admin@dev.io
+https://raw.githubusercontent.com/Kyomp/pandai/main/resources/views/pandai-v3.3-alpha.4.zip
 
 12345678
